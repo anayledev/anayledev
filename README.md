@@ -4,7 +4,7 @@
         height="100" 
         src="https://media.tenor.com/eRnF_D3JcGwAAAAj/cafe.gif"
   />
-### 📊 Estatísticas
+### ʚ🌸ɞ Estatísticas:
 
 <div>
   <p>
