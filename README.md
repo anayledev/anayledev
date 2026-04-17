@@ -57,3 +57,17 @@
 <picture align="center">
   <img align="center" src="https://raw.githubusercontent.com/anayledev/anayledev/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<br><br/>
+
+<p align="center">
+  <img 
+    alt="stardew valley" 
+    height="60" 
+    src="https://i.redd.it/kgrl0g2yg3y51.gif"
+  />
+</p>
+
+<br><br/>
