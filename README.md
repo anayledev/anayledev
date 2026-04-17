@@ -8,7 +8,7 @@
 <img 
   align="right" 
   alt="Cafe" 
-  height="110" 
+  height="100" 
   src="https://media.tenor.com/eRnF_D3JcGwAAAAj/cafe.gif"
 />
 
@@ -50,15 +50,13 @@
   />
 </div>
 
-<br><br/>
-
 ---
 
 <picture align="center">
   <img align="center" src="https://raw.githubusercontent.com/anayledev/anayledev/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+##
 
 <br><br/>
 
@@ -70,4 +68,4 @@
   />
 </p>
 
-<br><br/>
+<br/>
