@@ -8,7 +8,7 @@
 <img 
   align="right" 
   alt="Cafe" 
-  height="100" 
+  height="120" 
   src="https://media.tenor.com/eRnF_D3JcGwAAAAj/cafe.gif"
 />
 
