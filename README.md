@@ -14,7 +14,7 @@
 
 ### ʚ⭐ɞ Sobre mim
 
--  Estudante de Sistemas de Informação  
+-  Cursando o 5º semestre de Sistemas de Informação  
 -  Aprendendo lógica de programação e desenvolvimento fullstack  
 -  Voltando aos estudos e praticando todos os dias
 
