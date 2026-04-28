@@ -23,7 +23,7 @@
 
 ### ʚ⚙️ɞ Tecnologias em aprendizado
 
-![C](https://img.shields.io/badge/C-6d597a?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-6d597a?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-f4a261?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-84a59d?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-e9c46a?style=for-the-badge&logo=javascript&logoColor=black)
