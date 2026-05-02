@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffb6c1&size=28&center=true&vCenter=true&width=500&pause=2000&duration=3000&lines=Oii,+eu+sou+a+Anayle!;Bem-vindo(a)+ao+meu+GitHub." />
 </p>
@@ -17,7 +16,6 @@
 -  Cursando o 5º semestre de Sistemas de Informação  
 -  Aprendendo lógica de programação e desenvolvimento fullstack  
 -  Voltando aos estudos e praticando todos os dias
-
 
 ---
 
@@ -40,13 +38,13 @@
   <img 
     align="left" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=anayledev&show_icons=true&locale=pt-br&theme=dracula&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats-tau-neon-92.vercel.app/api?username=anayledev&show_icons=true&locale=pt-br&theme=dracula&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" 
   />
 
   <img 
     align="center" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayledev&layout=compact&locale=pt-br&theme=dracula&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats-tau-neon-92.vercel.app/api/top-langs/?username=anayledev&layout=compact&locale=pt-br&theme=dracula&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117" 
   />
 </div>
 
