@@ -43,13 +43,13 @@
   <img 
     align="left" 
     height="170" 
-    src="https://github-readme-stats-tau-neon-92.vercel.app/api?username=anayledev&show_icons=true&locale=pt-br&theme=dracula&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats-tau-neon-92.vercel.app/api?username=anayledev&show_icons=true&locale=pt-br&theme=dracula&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117&v=2" 
   />
 
   <img 
     align="center" 
     height="170" 
-    src="https://github-readme-stats-tau-neon-92.vercel.app/api/top-langs/?username=anayledev&layout=compact&locale=pt-br&theme=dracula&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats-tau-neon-92.vercel.app/api/top-langs/?username=anayledev&layout=compact&locale=pt-br&theme=dracula&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117&v=2" 
   />
 </div>
 
